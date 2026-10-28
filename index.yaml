@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  sandboxed-policies:
+  - apiVersion: v2
+    created: "2026-10-28T19:49:01.444860389Z"
+    description: A Helm chart to build and push polcies to support sandboxed containers
+      into the spoke cluster of a validated pattern.
+    digest: 14c4f5ffad23a3b6c84646d8eeb907e1947a420fcaec85a9e1dd2217a7df359b
+    keywords:
+    - pattern
+    - sandboxed-containers
+    - confidential-computing
+    - confidential-containers
+    name: sandboxed-policies
+    urls:
+    - https://beraldoleal.github.io/sandboxed-policies-chart/sandboxed-policies-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-10-28T19:49:01.44381501Z"
